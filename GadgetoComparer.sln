@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GadgetoComparer", "GadgetoComparer\GadgetoComparer.csproj", "{5EF607EF-26FE-4191-A43C-88D28722945F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GadgetoComparerTests", "GadgetoComparerTests\GadgetoComparerTests.csproj", "{B6AABA5D-FF52-4553-B131-98147DD1D0E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EF607EF-26FE-4191-A43C-88D28722945F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF607EF-26FE-4191-A43C-88D28722945F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF607EF-26FE-4191-A43C-88D28722945F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF607EF-26FE-4191-A43C-88D28722945F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6AABA5D-FF52-4553-B131-98147DD1D0E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6AABA5D-FF52-4553-B131-98147DD1D0E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6AABA5D-FF52-4553-B131-98147DD1D0E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6AABA5D-FF52-4553-B131-98147DD1D0E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0730BA18-8802-43AD-B21A-B5FDCE7AF58F}
+	EndGlobalSection
+EndGlobal
